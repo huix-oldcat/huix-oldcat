@@ -1,4 +1,12 @@
-### Hi there 👋
+和我签订契约，成为魔法少女吧！
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=huix-oldcat&layout=compact&show_icons=true&theme=dracula)
+
+---
+
+你看，这是`SCP-010-7`。（意味深）
+
+
 
 <!--
 **huix-oldcat/huix-oldcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
